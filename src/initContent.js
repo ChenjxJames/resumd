@@ -1,43 +1,34 @@
-export default `# Tim Qian
+export default `# James Chen
 
-A full-stack JS developer and open-source activist.
+A full-stack JS developer.
 
 ## Contact
 
-| [GitHub](htttps://github.com/timqian) | [Twitter](https://twitter.com/tim_qian) | [Email](mailto:timqian@t9t.io) | [Website](https://timqian.com) | [Blog](https://blog.t9t.io) | [Patreon](https://www.patreon.com/timqian) |
+| [GitHub](https://github.com/ChenjxJames) | [Email](mailto:james@chenjx.com.cn) | [Blog](https://www.chenjianxiong.com)
 
 ## Teck Stack
 
-- Backend: Node.js; Express; AWS lambda; serverless; GraphQL; RabbitMQ
-- Database: DynamoDB; MongoDB; Postgres; SQLite; AWS RDS; Redis
-- Frontend: react.js; SASS/CSS; d3.js
-- Chrome Extension: react.js; SASS/CSS;
+- Backend: Node.js; koa2; egg.js; Python; Django
+- Database: MySQL; MongoDB; Redis
+- Frontend: react.js; vue.js; sass/less; Redux; Typescript
 
 ## Projects (open source)
 
-- **[chart.xkcd](https://github.com/timqian/chart.xkcd)**: xkcd styled chart lib.
-  - 5.5k+ stars on GitHub, 100k downloads
-  - Built with d3.js
-- **[tomato-pie](https://github.com/t9tio/tomato-pie)**: A new UI for Pomodoro Technique. Schedule your time directly with a clock.
-  - 1k+ active users
-  - Built with pure HTML, CSS, JS
-- **[repo-analytics](https://github.com/repo-analytics/repo-analytics.github.io)**: Thorough analytics for your GitHub repos.
-  - 100+ users
-  - Frontend: React.js; backend: node.js, AWS lambda, dynamodb
+- **[none-sql](https://github.com/ChenjxJames/none-sql)**: npm~~~~ package.
+  - Developed based on the npm open-source library MySQL, it has added Promise style methods and chain call programming methods for commonly used database operations;
+  - Implement commonly used database operation APIs, and complete simple database operations without the need to write SQL statements.
+  - install:
+    \`\`\`
+    npm install none-sql
+    # or
+    yarn add none-sql
+    \`\`\`
 
 ## Working Experience
 
-- **[t9t.io](https://t9t.io)**: Indie Hacker; (2019/05 - now)
-Trying to build something people want
-- **[modelo.io](https://modelo.io)**: Backend developer; Backend leader; (2016/10 - 2019/05)
-Lead a small backend team; Maintain and write backend code using node.js, GraphQL, PostgreSQL...
-- **[ele.me](https://www.ele.me/)** (now part of [Alibaba](https://www.alibaba.com/)): Intern; (2016/05 - 2016/08)
-Develop performance monitor system making use of node.js, MongoDB, Redis and koa
-- **[Oracle China](https://oracle.com)**: Intern; (2015/07 – 2016/05)
-Maintain automatic testing system code(written in node.js) in the OATS team.
+- maintain secrecy
 
 ## Education
 
-- Master’s Degree in computational physics, **Shanghai University** *(2014 – 2017)*
-- Bachelor’s Degree in physics, **Ningbo University** *(2010 – 2014)*
+- Bachelor’s Degree in Computer Science and Technology, **Shanghai Sanda University** *(2016 – 2020)*
 `
